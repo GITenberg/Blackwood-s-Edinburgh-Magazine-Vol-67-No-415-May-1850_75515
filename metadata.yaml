@@ -1,0 +1,27 @@
+_repo: Blackwood-s-Edinburgh-Magazine-Vol-67-No-415-May-1850_75515
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2025-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75515'
+language: en
+pgterms:marc904: https://archive.org/details/blackwoodsmagazi67edinuoft/page/512/mode/2up
+production_note: Richard Tonsing, Jonathan Ingram, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Blackwood's Edinburgh Magazine, Vol. 67, No. 415, May, 1850
+url: http://www.gutenberg.org/ebooks/75515
